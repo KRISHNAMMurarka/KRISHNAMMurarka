@@ -9,6 +9,7 @@ I work on practical software systems across product architecture, AI workflows, 
 - [Edilec](https://edilec.com/) — custom software, AI workflow automation, cloud, data, security, and product systems.
 - [Technical writing](https://edilec.com/authors/krishnam-murarka/) — published guides on software architecture, AI workflows, cloud systems, and product operations.
 - [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) — Edilec's open-source Node.js tool for checking sitemap declarations and comparing URL cohorts between releases.
+- [inline-json-for-html](https://github.com/edilec/inline-json-for-html) — a dependency-free utility for serializing JSON for HTML script-element text.
 
 ## Contact
 

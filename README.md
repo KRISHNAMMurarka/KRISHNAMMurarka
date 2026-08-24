@@ -1,3 +1,11 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/krishnam-systems-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile/krishnam-systems-light.svg">
+    <img src="./assets/profile/krishnam-systems-light.svg" width="960" alt="Krishnam Murarka's product, AI, identity, data, cloud, and operations systems map">
+  </picture>
+</p>
+
 <h1 align="center">Krishnam Murarka</h1>
 
 <p align="center">
@@ -46,8 +54,6 @@
 ## Public engineering signals
 
 <img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/language-stack.svg" width="480" alt="Language mix across Krishnam Murarka's selected maintained public repositories">
-
-<img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/recent-public-activity.svg" width="480" alt="Recent public releases, pull requests, and reviews by Krishnam Murarka">
 
 ## Engineering map
 

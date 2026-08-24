@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 452" width="960" height="452" role="img" aria-labelledby="signal-title signal-desc" data-component="repository-evidence" data-schema="1" data-profile="personal" data-layout="desktop" data-signal="engineering" data-repositories="5">
+  <title id="signal-title">Krishnam Murarka public engineering signal</title>
+  <desc id="signal-desc">Current release, continuous integration, security policy, and licence status for 5 selected public repositories.</desc>
+  <rect x=".5" y=".5" width="959" height="451" rx="20" fill="#0d1117" stroke="#30363d"/>
+  <text x="36" y="40" fill="#7ee787" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" font-weight="750" letter-spacing="2">PUBLIC ENGINEERING SIGNAL</text>
+  <text x="36" y="74" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="24" font-weight="750">Krishnam Murarka · maintained systems</text>
+  <text x="36" y="92" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="12">Release, CI, disclosure, and licensing evidence from an explicit repository allowlist.</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <g><rect x="36" y="102" width="207" height="58" rx="14" fill="#161b22" stroke="#30363d"/><text x="54" y="126" fill="#8c959f" font-size="10" font-weight="700" letter-spacing="1.4">RELEASED</text><text x="54" y="149" fill="#7ee787" font-size="21" font-weight="750">5 / 5</text></g><g><rect x="261" y="102" width="207" height="58" rx="14" fill="#161b22" stroke="#30363d"/><text x="279" y="126" fill="#8c959f" font-size="10" font-weight="700" letter-spacing="1.4">CI PASSING</text><text x="279" y="149" fill="#7ee787" font-size="21" font-weight="750">5 / 5</text></g><g><rect x="486" y="102" width="207" height="58" rx="14" fill="#161b22" stroke="#30363d"/><text x="504" y="126" fill="#8c959f" font-size="10" font-weight="700" letter-spacing="1.4">SECURITY POLICY</text><text x="504" y="149" fill="#7ee787" font-size="21" font-weight="750">5 / 5</text></g><g><rect x="711" y="102" width="207" height="58" rx="14" fill="#161b22" stroke="#30363d"/><text x="729" y="126" fill="#8c959f" font-size="10" font-weight="700" letter-spacing="1.4">SPDX LICENSED</text><text x="729" y="149" fill="#7ee787" font-size="21" font-weight="750">5 / 5</text></g>
+    <g data-repository="KRISHNAMMurarka/retry-jitter-lab" data-release="v0.1.0" data-checks="success" data-security-policy="true" data-license="MIT">
+      <rect x="36" y="184" width="888" height="38" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="55" cy="203" r="4" fill="#56d364"/>
+      <text x="70" y="201" fill="#f0f6fc" font-size="14" font-weight="700">retry-jitter-lab</text>
+      <text x="70" y="214" fill="#8c959f" font-size="10">Python · MIT</text>
+      <g><rect x="590" y="191" width="94" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="637" y="207" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">v0.1.0</text></g>
+      <g><rect x="696" y="191" width="92" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="742" y="207" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">CI PASS</text></g>
+      <g><rect x="800" y="191" width="108" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="854" y="207" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">SECURITY</text></g>
+    </g><g data-repository="edilec/svg-semantic-layout-auditor" data-release="v0.1.0" data-checks="success" data-security-policy="true" data-license="MIT">
+      <rect x="36" y="232" width="888" height="38" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="55" cy="251" r="4" fill="#56d364"/>
+      <text x="70" y="249" fill="#f0f6fc" font-size="14" font-weight="700">svg-semantic-layout-auditor</text>
+      <text x="70" y="262" fill="#8c959f" font-size="10">JavaScript · MIT</text>
+      <g><rect x="590" y="239" width="94" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="637" y="255" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">v0.1.0</text></g>
+      <g><rect x="696" y="239" width="92" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="742" y="255" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">CI PASS</text></g>
+      <g><rect x="800" y="239" width="108" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="854" y="255" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">SECURITY</text></g>
+    </g><g data-repository="edilec/content-identity-auditor" data-release="v0.1.0" data-checks="success" data-security-policy="true" data-license="MIT">
+      <rect x="36" y="280" width="888" height="38" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="55" cy="299" r="4" fill="#56d364"/>
+      <text x="70" y="297" fill="#f0f6fc" font-size="14" font-weight="700">content-identity-auditor</text>
+      <text x="70" y="310" fill="#8c959f" font-size="10">JavaScript · MIT</text>
+      <g><rect x="590" y="287" width="94" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="637" y="303" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">v0.1.0</text></g>
+      <g><rect x="696" y="287" width="92" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="742" y="303" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">CI PASS</text></g>
+      <g><rect x="800" y="287" width="108" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="854" y="303" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">SECURITY</text></g>
+    </g><g data-repository="edilec/sitemap-cohort-auditor" data-release="v0.2.1" data-checks="success" data-security-policy="true" data-license="MIT">
+      <rect x="36" y="328" width="888" height="38" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="55" cy="347" r="4" fill="#56d364"/>
+      <text x="70" y="345" fill="#f0f6fc" font-size="14" font-weight="700">sitemap-cohort-auditor</text>
+      <text x="70" y="358" fill="#8c959f" font-size="10">JavaScript · MIT</text>
+      <g><rect x="590" y="335" width="94" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="637" y="351" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">v0.2.1</text></g>
+      <g><rect x="696" y="335" width="92" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="742" y="351" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">CI PASS</text></g>
+      <g><rect x="800" y="335" width="108" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="854" y="351" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">SECURITY</text></g>
+    </g><g data-repository="edilec/inline-json-for-html" data-release="v0.1.1" data-checks="success" data-security-policy="true" data-license="MIT">
+      <rect x="36" y="376" width="888" height="38" rx="12" fill="#161b22" stroke="#30363d"/>
+      <circle cx="55" cy="395" r="4" fill="#56d364"/>
+      <text x="70" y="393" fill="#f0f6fc" font-size="14" font-weight="700">inline-json-for-html</text>
+      <text x="70" y="406" fill="#8c959f" font-size="10">JavaScript · MIT</text>
+      <g><rect x="590" y="383" width="94" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="637" y="399" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">v0.1.1</text></g>
+      <g><rect x="696" y="383" width="92" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="742" y="399" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">CI PASS</text></g>
+      <g><rect x="800" y="383" width="108" height="24" rx="12" fill="#12261e" stroke="#56d364"/><text x="854" y="399" text-anchor="middle" fill="#7ee787" font-size="10" font-weight="700" letter-spacing=".8">SECURITY</text></g>
+    </g>
+  </g>
+</svg>

@@ -1,100 +1,90 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/krishnam-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile/krishnam-hero-light.svg">
-  <img src="./assets/profile/krishnam-hero-light.svg" width="100%" alt="Krishnam Murarka — founder, builder and technical author working across products, systems and operations">
-</picture>
-
 # Krishnam Murarka
 
-Founder and CEO of [Edilec Private Limited](https://edilec.com/).
+Founder and CEO of [Edilec Private Limited](https://edilec.com/). I build
+software, AI, cloud, identity, and developer systems with an emphasis on clear
+boundaries, dependable operations, and useful products.
 
-I build software, AI workflows, cloud, identity and developer systems with an emphasis on clear boundaries, dependable operations and useful products.
+[Edilec](https://edilec.com/) · [Public repositories](https://github.com/edilec) · [Technical writing](https://edilec.com/authors/krishnam-murarka/) · [Email](mailto:hello@edilec.com)
 
-[Edilec](https://edilec.com/) · [Engineering library](https://edilec.com/blog/) · [Author archive](https://edilec.com/authors/krishnam-murarka/) · [Email](mailto:hello@edilec.com)
+## Selected public work
 
-## Currently building
+### [Retry Jitter Lab](https://github.com/KRISHNAMMurarka/retry-jitter-lab)
 
-### [Uynis](https://edilec.com/products/uynis/)
+Deterministic simulations for comparing fixed, exponential, full-jitter,
+equal-jitter, and decorrelated-jitter retry policies during outage recovery.
 
-Leading product direction and contributing to system architecture across
-identity, releases, cloud resources, and operations. **Active development;
-public source is under licence, security, and release-readiness review.**
+**Personal project · Python 3.10+ · v0.1.0 · MIT**
 
-### Edilec Mail
+[Documentation](https://github.com/KRISHNAMMurarka/retry-jitter-lab#readme) · [Release](https://github.com/KRISHNAMMurarka/retry-jitter-lab/releases/tag/v0.1.0) · [Checks](https://github.com/KRISHNAMMurarka/retry-jitter-lab/actions) · [Security](https://github.com/KRISHNAMMurarka/retry-jitter-lab/security/policy)
 
-Leading product direction and systems integration for Edilec's mail and
-operations platform. **Private development.**
+### [Content Identity Auditor](https://github.com/edilec/content-identity-auditor)
 
-### Edilec open source
+Audits content-ID collisions, canonical identity, and publication cadence with a
+dependency-free Node.js CLI. I maintain it in Edilec's canonical repository.
 
-Contributing implementation, documentation, releases, and maintenance to
-focused engineering utilities in Edilec's canonical repositories. **Public and
-maintained.**
+**Edilec maintainer · Node.js 22+ · v0.1.0 · MIT · experimental**
 
-## Selected systems
+[Documentation](https://github.com/edilec/content-identity-auditor#readme) · [Release](https://github.com/edilec/content-identity-auditor/releases/tag/v0.1.0) · [Checks](https://github.com/edilec/content-identity-auditor/actions) · [Security](https://github.com/edilec/content-identity-auditor/security/policy)
+
+### [SVG Semantic Layout Auditor](https://github.com/edilec/svg-semantic-layout-auditor)
+
+Static SVG accessibility, reference-safety, dimension, and text-layout checks
+without rendering, font loading, or network access.
+
+**Edilec maintainer · Node.js 20+ · v0.1.0 · MIT · release candidate**
+
+[Documentation](https://github.com/edilec/svg-semantic-layout-auditor#readme) · [Rules](https://github.com/edilec/svg-semantic-layout-auditor/blob/main/docs/rules.md) · [Checks](https://github.com/edilec/svg-semantic-layout-auditor/actions) · [Security](https://github.com/edilec/svg-semantic-layout-auditor/security/policy)
 
 ### [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor)
 
-Audits sitemap declarations and compares exact URL cohorts between releases. I
-contribute to implementation and maintenance through Edilec. **Node.js ·
-JavaScript · CLI · Public · MIT.**
+Audits sitemap declarations and compares exact URL cohorts between releases.
+It reports declared sitemap evidence; it does not predict indexing or traffic.
+
+**Edilec maintainer · Node.js 20+ · v0.2.1 · MIT**
+
+[Documentation](https://github.com/edilec/sitemap-cohort-auditor#readme) · [Release](https://github.com/edilec/sitemap-cohort-auditor/releases/tag/v0.2.1) · [Checks](https://github.com/edilec/sitemap-cohort-auditor/actions) · [Security](https://github.com/edilec/sitemap-cohort-auditor/security/policy)
 
 ### [inline-json-for-html](https://github.com/edilec/inline-json-for-html)
 
-Serializes JSON for the raw text of `<script type="application/json">` elements;
-it is not for executable JavaScript or general HTML sanitization. I contribute
-to implementation, documentation, and maintenance of the canonical Edilec
-library. **JavaScript · TypeScript declarations · Public · MIT.**
+Serializes JSON for the raw text of `<script type="application/json">`
+elements. Its scope is deliberately narrow: it is not a general HTML sanitizer.
 
-### [Uynis](https://edilec.com/products/uynis/)
+**Edilec maintainer · Node.js 22+ · v0.1.1 · MIT**
 
-Brings identity, releases, cloud resources, and operational visibility into one
-product direction. My work spans product definition, architecture, and
-implementation. **TypeScript monorepo · Active development; public source is
-not presented as release-ready.**
+[Documentation](https://github.com/edilec/inline-json-for-html#readme) · [Release](https://github.com/edilec/inline-json-for-html/releases/tag/v0.1.1) · [Checks](https://github.com/edilec/inline-json-for-html/actions) · [Security](https://github.com/edilec/inline-json-for-html/security/policy)
 
-### Edilec Mail
+## Public engineering language mix
 
-Develops a self-hosted mail and operations foundation. My work spans product
-direction and systems integration. **TypeScript · PostgreSQL · Private
-development.**
+<img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/languages.svg" width="480" alt="Language mix across Krishnam Murarka's explicitly selected maintained public repositories">
+
+Generated weekly from an explicit allowlist of maintained public repositories
+with [GitHub Metrics](https://github.com/lowlighter/metrics). Forks, private
+repositories, contribution-calendar activity, and vanity totals are excluded.
 
 ## Engineering focus
 
-| Area | Evidence in the work |
+| Area | Current evidence |
 | --- | --- |
-| Product and system architecture | Uynis, Edilec Mail and architecture-focused technical writing |
-| Developer tools and release evidence | Sitemap Cohort Auditor and inline-json-for-html |
-| AI workflow systems | Agent architecture, bounded tool use, evaluation and human-review design |
-| Cloud, identity and security | Platform boundaries, access control, deployment operations and recovery |
-| Product engineering | Turning operational problems into maintainable software with explicit maturity and limitations |
+| Reliability and distributed systems | Retry Jitter Lab and recovery-oriented architecture work |
+| Developer tooling | Content, sitemap, SVG, and safe-serialization utilities |
+| Product and system architecture | Product direction and system boundaries at Edilec |
+| Cloud, identity, and security | Access control, deployment operations, recovery, and threat-aware design |
+| AI workflow systems | Bounded tools, evaluation, approvals, and human-review paths |
 
-## Open source
+## Current direction
 
-### [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor)
-
-A dependency-free Node.js CLI for inspecting XML and GZip sitemap declarations, reporting metadata findings and comparing declared URL sets between releases.
-
-[Documentation](https://github.com/edilec/sitemap-cohort-auditor#readme) · [Releases](https://github.com/edilec/sitemap-cohort-auditor/releases) · [Security](https://github.com/edilec/sitemap-cohort-auditor/security/policy) · [Contributing](https://github.com/edilec/sitemap-cohort-auditor/blob/main/CONTRIBUTING.md)
-
-### [inline-json-for-html](https://github.com/edilec/inline-json-for-html)
-
-A small, dependency-free utility for serializing JSON into HTML script data blocks. Its scope is deliberately narrow: it is not a general-purpose HTML sanitizer.
-
-[Documentation](https://github.com/edilec/inline-json-for-html#readme) · [Releases](https://github.com/edilec/inline-json-for-html/releases) · [Security](https://github.com/edilec/inline-json-for-html/security/policy) · [Contributing](https://github.com/edilec/inline-json-for-html/blob/main/CONTRIBUTING.md)
+At Edilec I lead product and engineering work, including Uynis and the public
+tools above. Uynis remains under active development; its public material is not
+presented as production-ready source.
 
 ## Architecture and technical writing
 
-- [How AI Agents Work in Business Workflows: Architecture, Controls and Rollout](https://edilec.com/blog/ai-1024/how-ai-agents-work-in-business-workflows/)
-- [ERP, CRM and Workflow Integration Guide: Record Authority, Events and Recovery](https://edilec.com/blog/ent-5204/erp-crm-and-workflow-integration-guide/)
+- [How AI Agents Work in Business Workflows](https://edilec.com/blog/ai-1024/how-ai-agents-work-in-business-workflows/)
+- [ERP, CRM and Workflow Integration Guide](https://edilec.com/blog/ent-5204/erp-crm-and-workflow-integration-guide/)
 - [SaaS Architecture for Startups and Internal Products](https://edilec.com/blog/prod-7102/saas-architecture-for-startups-and-internal-products/)
 
 [Browse all writing](https://edilec.com/authors/krishnam-murarka/)
 
-## Learning and research
-
-I continue to study reliable AI workflows, distributed-system boundaries, identity and authorization, networking, and secure software delivery. The focus is practical: connect each area to a system, a testable decision or a clearly documented experiment.
-
 ## Contact
 
-[Edilec](https://edilec.com/) · [Technical writing](https://edilec.com/authors/krishnam-murarka/) · [hello@edilec.com](mailto:hello@edilec.com)
+[Edilec](https://edilec.com/) · [Writing](https://edilec.com/authors/krishnam-murarka/) · [hello@edilec.com](mailto:hello@edilec.com)

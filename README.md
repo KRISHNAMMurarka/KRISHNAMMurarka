@@ -51,9 +51,16 @@
 - [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) — exact sitemap cohort and release comparison; `Node.js 20+` · `v0.2.1` · `MIT`.
 - [inline-json-for-html](https://github.com/edilec/inline-json-for-html) — narrow JSON serialization for HTML script-element text; `Node.js 22+` · `v0.1.1` · `MIT`.
 
-## Public engineering signals
+## Public engineering evidence
 
-<img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/language-stack.svg" width="480" alt="Language mix across Krishnam Murarka's selected maintained public repositories">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-dark.svg">
+    <img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-light.svg" width="960" alt="Release, CI, security-policy, and licence status for Krishnam Murarka's selected public systems">
+  </picture>
+</p>
 
 ## Engineering map
 

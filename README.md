@@ -50,7 +50,7 @@
 
 ### More maintained work
 
-- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) — exact sitemap cohort and release comparison; `Node.js 20+` · `v0.2.1` · `MIT`.
+- [Sitemap Cohort Auditor](https://github.com/edilec/sitemap-cohort-auditor) — exact sitemap cohort and release comparison; `Node.js 20+` · `v0.2.2` · `MIT`.
 - [inline-json-for-html](https://github.com/edilec/inline-json-for-html) — narrow JSON serialization for HTML script-element text; `Node.js 22+` · `v0.1.1` · `MIT`.
 
 ## Public engineering evidence

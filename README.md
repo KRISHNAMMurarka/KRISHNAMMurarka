@@ -1,5 +1,7 @@
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/profile/krishnam-systems-mobile-dark.svg">
+    <source media="(max-width: 600px)" srcset="./assets/profile/krishnam-systems-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/krishnam-systems-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/profile/krishnam-systems-light.svg">
     <img src="./assets/profile/krishnam-systems-light.svg" width="960" alt="Krishnam Murarka's product, AI, identity, data, cloud, and operations systems map">
@@ -37,7 +39,7 @@
 > ### [SVG Semantic Layout Auditor →](https://github.com/edilec/svg-semantic-layout-auditor)
 > Static accessibility, reference-safety, dimension, and text-layout checks for SVG libraries.
 >
-> `Edilec maintainer` · `Node.js 20+` · `v0.1.0` · `MIT` · `release candidate`<br>
+> `Edilec maintainer` · `Node.js 20+` · `v0.1.0` · `MIT` · `experimental`<br>
 > [Rules](https://github.com/edilec/svg-semantic-layout-auditor/blob/main/docs/rules.md) · [Security](https://github.com/edilec/svg-semantic-layout-auditor/security/policy)
 
 > ### [Content Identity Auditor →](https://github.com/edilec/content-identity-auditor)
@@ -58,7 +60,7 @@
     <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-mobile-dark.svg">
     <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-mobile-light.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-dark.svg">
-    <img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-light.svg" width="960" alt="Release, CI, security-policy, and licence status for Krishnam Murarka's selected public systems">
+    <img src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/engineering-signal-light.svg" width="960" alt="Five of five selected public systems have releases, passing CI, security policies, and SPDX licences">
   </picture>
 </p>
 

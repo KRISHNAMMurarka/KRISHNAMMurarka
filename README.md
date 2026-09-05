@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Krishnam Murarka, Founder and CEO at Edilec, Bengaluru, India" width="100%"
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:3fb950&height=190&section=header&text=Krishnam%20Murarka&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Founder%20%26%20CEO%20at%20Edilec%20%C2%B7%20Bengaluru,%20India&descAlignY=56&descSize=16">
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:3fb950&height=200&section=header&text=Krishnam%20Murarka&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Founder%20and%20CEO%20at%20Edilec%20%7C%20Bengaluru,%20India&descAlignY=54&descSize=16">
 </p>
 
 <p align="center">
@@ -55,8 +55,12 @@ architecture through to what happens after launch.
 ### GitHub
 
 <p align="center">
-  <img alt="GitHub overview: repositories, followers and licences" width="49%" src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/metrics.overview.svg">
-  <img alt="Most used languages by bytes and percentage" width="49%" src="https://raw.githubusercontent.com/KRISHNAMMurarka/KRISHNAMMurarka/metrics-renders/assets/metrics/metrics.languages.svg">
+  <img alt="Profile summary: public repositories, join date and contributions over the last year" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAMMurarka&theme=github_dark">
+</p>
+
+<p align="center">
+  <img alt="Top languages by repository" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRISHNAMMurarka&theme=github_dark">
+  <img alt="Top languages by commit" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRISHNAMMurarka&theme=github_dark">
 </p>
 
 <p align="center">

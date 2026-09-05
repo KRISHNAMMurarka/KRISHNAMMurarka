@@ -24,21 +24,11 @@ jobs:
     permissions:
       contents: write
     steps:
-      # A personal access token unlocks the compute-heavy plugins.
-      # Without one the action falls back to the repository token, which
-      # still covers the panels below for public activity.
-      - name: Overview
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
-        with:
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
-          user: KRISHNAMMurarka
-          filename: assets/metrics/metrics.overview.svg
-          committer_branch: metrics-renders
-          committer_message: "chore(widgets): refresh overview"
-          config_timezone: Asia/Kolkata
-          base: header, repositories
-          base_indepth: no
-
+      # The isometric calendar reads the user contribution calendar, which
+      # the repository token can see. The overview and languages panels
+      # need a user scoped PAT: with the repository token they report
+      # "1 Repository" and no languages, so they are deliberately not
+      # rendered here. Add a METRICS_TOKEN secret to enable them.
       - name: Isometric contribution calendar
         uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
         with:
@@ -52,19 +42,6 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - name: Most used languages
-        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
-        with:
-          token: ${{ secrets.METRICS_TOKEN || github.token }}
-          user: KRISHNAMMurarka
-          filename: assets/metrics/metrics.languages.svg
-          committer_branch: metrics-renders
-          committer_message: "chore(widgets): refresh languages"
-          config_timezone: Asia/Kolkata
-          base: ""
-          plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 6
 
   snake:
     name: Render contribution snake

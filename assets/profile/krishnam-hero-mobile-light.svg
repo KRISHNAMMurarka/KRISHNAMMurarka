@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 352" role="img" aria-labelledby="kmhm-l-t kmhm-l-d">
+  <title id="kmhm-l-t">Krishnam Murarka, founder and product engineer</title>
+  <desc id="kmhm-l-d">Systems that hold up in practice. Software, AI workflows, cloud, identity and developer systems, built in Bengaluru, India.</desc>
+  <defs>
+    <pattern id="kmhm-l-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#d8dee4" stroke-width="1" opacity=".9"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="389" height="351" rx="20" fill="#f6f8fa" stroke="#d0d7de"/>
+  <rect x="1" y="1" width="388" height="350" rx="19" fill="url(#kmhm-l-grid)"/>
+  <text x="22" y="32" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">FOUNDER · PRODUCT ENGINEER</text>
+  <text x="22" y="76" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="760" letter-spacing="-0.7">Systems that hold</text>
+  <text x="22" y="110" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="27" font-weight="760" letter-spacing="-0.7">up in practice.</text>
+  <rect x="22" y="128" width="140" height="4" rx="2" fill="#1f883d"/>
+  <text x="22" y="162" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400">Software · AI workflows · cloud</text>
+  <text x="22" y="182" fill="#57606a" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400">Identity · developer systems</text>
+  <rect x="22" y="200" width="150" height="28" rx="14.0" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="97.0" y="218.0" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.1" text-anchor="middle">BENGALURU, INDIA</text>
+  <rect x="180" y="200" width="176" height="28" rx="14.0" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="268.0" y="218.0" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.1" text-anchor="middle">BSc CS · BITS PILANI</text>
+  <path d="M22 244H368" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="22" y="258" width="104" height="32" rx="16.0" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="74.0" y="278.0" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" text-anchor="middle">PRODUCT</text>
+  <rect x="136" y="258" width="104" height="32" rx="16.0" fill="#dafbe1" stroke="#1f883d"/>
+  <text x="188.0" y="278.0" fill="#116329" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" text-anchor="middle">AI</text>
+  <rect x="250" y="258" width="118" height="32" rx="16.0" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="309.0" y="278.0" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" text-anchor="middle">IDENTITY</text>
+  <rect x="79" y="300" width="104" height="30" rx="15.0" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="131.0" y="319.0" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" text-anchor="middle">CLOUD</text>
+  <rect x="193" y="300" width="118" height="30" rx="15.0" fill="#ffffff" stroke="#d0d7de"/>
+  <text x="252.0" y="319.0" fill="#1f2328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.3" text-anchor="middle">OPERATIONS</text>
+</svg>

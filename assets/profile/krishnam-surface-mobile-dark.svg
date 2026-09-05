@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 560" role="img" aria-labelledby="kmsm-d-t kmsm-d-d">
+  <title id="kmsm-d-t">Krishnam Murarka's engineering surface</title>
+  <desc id="kmsm-d-d">Six areas of engineering work: product and SaaS builds, AI workflows with agents and RAG, cloud and DevOps on Azure, identity and security including OAuth, SSO, MFA and post-quantum readiness, data pipelines and enterprise ERP, CRM and HRMS systems, all built with Python, Node.js and JavaScript.</desc>
+  <defs>
+    <pattern id="kmsm-d-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#30363d" stroke-width="1" opacity=".62"/>
+    </pattern>
+  </defs>
+  <rect x=".5" y=".5" width="389" height="559" rx="20" fill="#0d1117" stroke="#30363d"/>
+  <rect x="1" y="1" width="388" height="558" rx="19" fill="url(#kmsm-d-grid)"/>
+  <text x="22" y="34" fill="#7ee787" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">WHERE I WORK</text>
+  <text x="22" y="58" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="730" letter-spacing="-0.3">Engineering surface</text>
+  <rect x="20" y="76" width="350" height="68" rx="14" fill="#161b22" stroke="#484f58"/>
+  <circle cx="40" cy="101" r="3.5" fill="#56d364"/>
+  <text x="54" y="105" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3">PRODUCT &amp; SAAS</text>
+  <text x="40" y="128" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400">Custom software and SaaS builds.</text>
+  <rect x="20" y="154" width="350" height="68" rx="14" fill="#161b22" stroke="#484f58"/>
+  <circle cx="40" cy="179" r="3.5" fill="#56d364"/>
+  <text x="54" y="183" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3">AI WORKFLOWS</text>
+  <text x="40" y="206" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400">Agents, RAG, automation, evals.</text>
+  <rect x="20" y="232" width="350" height="68" rx="14" fill="#161b22" stroke="#484f58"/>
+  <circle cx="40" cy="257" r="3.5" fill="#56d364"/>
+  <text x="54" y="261" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3">CLOUD &amp; DEVOPS</text>
+  <text x="40" y="284" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400">Azure, deployment, operations.</text>
+  <rect x="20" y="310" width="350" height="68" rx="14" fill="#161b22" stroke="#484f58"/>
+  <circle cx="40" cy="335" r="3.5" fill="#56d364"/>
+  <text x="54" y="339" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3">IDENTITY &amp; SECURITY</text>
+  <text x="40" y="362" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400">OAuth, SSO, MFA, post-quantum.</text>
+  <rect x="20" y="388" width="350" height="68" rx="14" fill="#161b22" stroke="#484f58"/>
+  <circle cx="40" cy="413" r="3.5" fill="#56d364"/>
+  <text x="54" y="417" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3">DATA &amp; ENTERPRISE</text>
+  <text x="40" y="440" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400">Pipelines, dashboards, ERP/CRM.</text>
+  <rect x="20" y="466" width="350" height="68" rx="14" fill="#161b22" stroke="#484f58"/>
+  <circle cx="40" cy="491" r="3.5" fill="#56d364"/>
+  <text x="54" y="495" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.3">BUILT WITH</text>
+  <text x="40" y="518" fill="#8c959f" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="400">Python, Node.js, JavaScript.</text>
+</svg>

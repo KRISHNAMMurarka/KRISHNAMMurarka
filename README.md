@@ -24,7 +24,7 @@ Full stack developer building software from architecture through to what happens
 </p>
 
 > [!NOTE]
-> **Building now.** Uynis, and Edilec's public engineering tools. The throughline
+> **Building now.** Edilec's public engineering tools. The throughline
 > is clear system boundaries, safe defaults, measurable releases, and evidence a
 > reviewer can check without having to ask me for it.
 
@@ -43,7 +43,7 @@ rather than a single stack specialist. The work below is the public slice of tha
 <source media="(max-width: 600px)" srcset="./assets/profile/krishnam-surface-mobile-light.svg">
 <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/krishnam-surface-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="./assets/profile/krishnam-surface-light.svg">
-<img src="./assets/profile/krishnam-surface-light.svg" width="960" alt="Engineering surface: product and SaaS builds, AI workflows with agents and RAG, cloud and DevOps on Azure, identity and security including OAuth, SSO, MFA and post-quantum readiness, data pipelines and enterprise ERP, CRM and HRMS systems, built with Python, Node.js and JavaScript.">
+<img src="./assets/profile/krishnam-surface-light.svg" width="960" alt="Engineering surface across six areas. Product and SaaS builds with TypeScript and React. AI workflows using agents and RAG with Python and Node.js. Cloud and platform on AWS, Azure and Docker. Identity and security with OAuth, SSO and MFA. Data and enterprise pipelines and ERP, CRM and HRMS systems with MongoDB and JavaScript. Shipping with CI/CD and Kubernetes.">
 </picture>
 </p>
 

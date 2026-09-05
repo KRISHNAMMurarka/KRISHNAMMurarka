@@ -1,11 +1,13 @@
 <p align="center">
-  <img alt="Krishnam Murarka, Founder and CEO at Edilec, Bengaluru, India" width="100%"
-       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:3fb950&height=200&section=header&text=Krishnam%20Murarka&fontSize=48&fontColor=ffffff&fontAlignY=34&desc=Founder%20and%20CEO%20at%20Edilec%20%7C%20Bengaluru,%20India&descAlignY=54&descSize=16">
+  <img alt="" width="100%"
+       src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:3fb950&height=170&section=header">
 </p>
 
+<h1 align="center">Krishnam Murarka</h1>
+
 <p align="center">
-  <img alt="Full stack developer and founder. AI workflows, cloud, identity and security. Systems that hold up in practice."
-       src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=900&color=3FB950&center=true&vCenter=true&width=760&height=46&lines=Full+stack+developer+and+founder;AI+workflows+%C2%B7+cloud+%C2%B7+identity+%C2%B7+security;Systems+that+hold+up+in+practice">
+  <b>Founder and CEO at <a href="https://edilec.com/">Edilec</a></b> &nbsp;·&nbsp; Bengaluru, India &nbsp;·&nbsp; he/him<br>
+  Full stack developer building software from architecture through to what happens after launch.
 </p>
 
 <p align="center">

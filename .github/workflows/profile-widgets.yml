@@ -1,0 +1,97 @@
+name: Refresh profile widgets
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 4 * * *"
+
+permissions: {}
+
+concurrency:
+  group: profile-widgets
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    name: Render metrics panels
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      # A personal access token unlocks the compute-heavy plugins.
+      # Without one the action falls back to the repository token, which
+      # still covers the panels below for public activity.
+      - name: Overview
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: KRISHNAMMurarka
+          filename: assets/metrics/metrics.overview.svg
+          committer_branch: metrics-renders
+          committer_message: "chore(widgets): refresh overview"
+          config_timezone: Asia/Kolkata
+          base: header, repositories
+          base_indepth: no
+
+      - name: Isometric contribution calendar
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: KRISHNAMMurarka
+          filename: assets/metrics/metrics.isocalendar.svg
+          committer_branch: metrics-renders
+          committer_message: "chore(widgets): refresh isocalendar"
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Most used languages
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6
+        with:
+          token: ${{ secrets.METRICS_TOKEN || github.token }}
+          user: KRISHNAMMurarka
+          filename: assets/metrics/metrics.languages.svg
+          committer_branch: metrics-renders
+          committer_message: "chore(widgets): refresh languages"
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 6
+
+  snake:
+    name: Render contribution snake
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Check out the render branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          ref: metrics-renders
+          path: renders
+
+      - name: Generate the snake
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
+        with:
+          github_user_name: KRISHNAMMurarka
+          outputs: |
+            renders/assets/snake/github-snake.svg
+            renders/assets/snake/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish only when the snake changed
+        working-directory: renders
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/snake
+          if git diff --staged --quiet; then
+            echo "Snake is already current"
+            exit 0
+          fi
+          git commit -m "chore(widgets): refresh contribution snake"
+          git push origin metrics-renders

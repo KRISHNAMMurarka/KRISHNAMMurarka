@@ -75,13 +75,6 @@ architecture through to what happens after launch.
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contribution-calendar-3d-dark.svg">
-    <img alt="Krishnam Murarka three-dimensional GitHub contribution calendar for the last year" width="100%" src="./assets/profile/contribution-calendar-3d.svg">
-  </picture>
-</p>
-
 ### Edilec repositories I contribute to
 
 I contribute to the canonical Edilec repositories below. The projects live under the Edilec account, and this directory keeps the work and repository links together in one place.

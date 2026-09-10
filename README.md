@@ -78,7 +78,7 @@ architecture through to what happens after launch.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contribution-calendar-3d-dark.svg">
-    <img alt="Krishnam Murarka three-dimensional GitHub contribution calendar for the last year" width="100%" src="./assets/profile/contribution-calendar-3d.svg">
+    <img alt="Krishnam Murarka open-source contribution activity for the last year" width="100%" src="./assets/profile/contribution-calendar-3d.svg">
   </picture>
 </p>
 

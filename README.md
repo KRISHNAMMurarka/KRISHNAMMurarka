@@ -1,10 +1,3 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:3fb950&height=170&section=header">
-    <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,55:e8f1ff,100:c8f7df&height=170&section=header">
-  </picture>
-</p>
-
 <h1 align="center">Krishnam Murarka</h1>
 
 <p align="center">
@@ -80,6 +73,13 @@ architecture through to what happens after launch.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github_dark">
     <img alt="Krishnam Murarka GitHub statistics" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile/contribution-calendar-3d-dark.svg">
+    <img alt="Krishnam Murarka three-dimensional GitHub contribution calendar for the last year" width="100%" src="./assets/profile/contribution-calendar-3d.svg">
   </picture>
 </p>
 
@@ -357,10 +357,3 @@ Longer form architecture notes, mostly about the decisions rather than the synta
 - [SaaS Architecture for Startups and Internal Products](https://edilec.com/blog/prod-7102/saas-architecture-for-startups-and-internal-products/)
 
 **[Browse all writing →](https://edilec.com/authors/krishnam-murarka/)**
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f6feb,100:3fb950&height=110&section=footer">
-    <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,55:e8f1ff,100:c8f7df&height=110&section=footer">
-  </picture>
-</p>

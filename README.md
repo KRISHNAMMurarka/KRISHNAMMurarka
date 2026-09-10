@@ -25,7 +25,6 @@ architecture through to what happens after launch.
   shows what the first one got wrong.
 - I stay hands on across most of the stack, which makes me a versatile generalist rather than a
   single stack specialist.
-- Finishing a **BSc in Computer Science at BITS Pilani** alongside the work.
 - Off the keyboard: certified **Scuba Divemaster**, paraglider and snowboarder. Staying calm under
   pressure turns out to port fairly directly to production incidents.
 - Open to conversations about full stack and cloud engineering roles, technical co-founder fits,

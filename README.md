@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/krishnamm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/KrishnamMurarka"><img alt="X" src="https://img.shields.io/badge/@KrishnamMurarka-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://edilec.com/authors/krishnam-murarka/"><img alt="Writing" src="https://img.shields.io/badge/Writing-FF5722?style=for-the-badge&logo=rss&logoColor=white"></a>
-  <a href="mailto:hello@edilec.com"><img alt="Email" src="https://img.shields.io/badge/hello@edilec.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:km@edilec.com"><img alt="Email" src="https://img.shields.io/badge/km@edilec.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---

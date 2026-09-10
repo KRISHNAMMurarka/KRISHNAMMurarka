@@ -51,7 +51,7 @@ architecture through to what happens after launch.
   <img alt="Krishnam Murarka contribution calendar for the last year, stored locally in this profile repository" width="100%" src="./assets/profile/contribution-grid-light.svg">
 </p>
 
-The GitHub panels above are committed locally and refreshed from account data, so the profile does not depend on third-party statistics, badge, calendar or animation services.
+The GitHub panels above are committed locally and generated from account data, so the profile does not depend on third-party statistics, badge, calendar or animation services.
 
 ### Edilec repositories I contribute to
 

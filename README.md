@@ -1,5 +1,8 @@
 <p align="center">
-  <img alt="Light Edilec header wave" width="100%" src="./assets/profile/profile-wave-light.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1f6feb,100:3fb950&height=170&section=header">
+    <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,55:e8f1ff,100:c8f7df&height=170&section=header">
+  </picture>
 </p>
 
 <h1 align="center">Krishnam Murarka</h1>
@@ -10,11 +13,11 @@
 </p>
 
 <p align="center">
-  <a href="https://edilec.com/">Website</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/krishnamm/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://x.com/KrishnamMurarka">X</a> &nbsp;·&nbsp;
-  <a href="https://edilec.com/authors/krishnam-murarka/">Writing</a> &nbsp;·&nbsp;
-  <a href="mailto:km@edilec.com">Email</a>
+  <a href="https://edilec.com/"><img alt="Website" src="https://img.shields.io/badge/edilec.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3fb950"></a>
+  <a href="https://www.linkedin.com/in/krishnamm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/KrishnamMurarka"><img alt="X" src="https://img.shields.io/badge/@KrishnamMurarka-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://edilec.com/authors/krishnam-murarka/"><img alt="Writing" src="https://img.shields.io/badge/Writing-FF5722?style=for-the-badge&logo=rss&logoColor=white"></a>
+  <a href="mailto:km@edilec.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -37,21 +40,48 @@ architecture through to what happens after launch.
 
 ### Tech stack
 
-<p align="center">TypeScript &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; AWS &nbsp;·&nbsp; Azure &nbsp;·&nbsp; Docker &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Git &nbsp;·&nbsp; GitHub Actions</p>
+<p align="center">
+  <img alt="TypeScript, JavaScript, Python, React, Node.js, MongoDB, AWS, Azure, Docker, Kubernetes, Git and GitHub Actions"
+       src="https://skillicons.dev/icons?i=ts,js,python,react,nodejs,mongodb,aws,azure,docker,kubernetes,git,githubactions&perline=12">
+</p>
 
-<p align="center">OAuth &nbsp;·&nbsp; SSO &nbsp;·&nbsp; MFA &nbsp;·&nbsp; Post-quantum readiness &nbsp;·&nbsp; AI agents &nbsp;·&nbsp; RAG &nbsp;·&nbsp; CI/CD &nbsp;·&nbsp; ERP &nbsp;·&nbsp; CRM &nbsp;·&nbsp; HRMS</p>
+<p align="center">
+  <img alt="Identity and security" src="https://img.shields.io/badge/OAuth-1f6feb?style=flat-square&logoColor=white">
+  <img alt="SSO" src="https://img.shields.io/badge/SSO-1f6feb?style=flat-square">
+  <img alt="MFA" src="https://img.shields.io/badge/MFA-1f6feb?style=flat-square">
+  <img alt="Post-quantum readiness" src="https://img.shields.io/badge/Post--quantum%20readiness-1f6feb?style=flat-square">
+  <img alt="AI agents" src="https://img.shields.io/badge/AI%20agents-8957e5?style=flat-square">
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-8957e5?style=flat-square">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-238636?style=flat-square">
+  <img alt="ERP, CRM and HRMS" src="https://img.shields.io/badge/ERP%20%C2%B7%20CRM%20%C2%B7%20HRMS-238636?style=flat-square">
+</p>
 
 ### GitHub
 
 <p align="center">
-  <img alt="Krishnam Murarka GitHub activity, stored locally in this profile repository" width="100%" src="./assets/profile/github-activity-light.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAMMurarka&theme=github_dark">
+    <img alt="Krishnam Murarka profile summary: public repositories, join date and contributions over the last year" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAMMurarka&theme=github">
+  </picture>
 </p>
 
 <p align="center">
-  <img alt="Krishnam Murarka contribution calendar for the last year, stored locally in this profile repository" width="100%" src="./assets/profile/contribution-grid-light.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRISHNAMMurarka&theme=github_dark">
+    <img alt="Top languages by repository" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KRISHNAMMurarka&theme=github">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRISHNAMMurarka&theme=github_dark">
+    <img alt="Top languages by commit" width="43%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KRISHNAMMurarka&theme=github">
+  </picture>
 </p>
 
-The GitHub panels above are committed locally and generated from account data, so the profile does not depend on third-party statistics, badge, calendar or animation services.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github_dark">
+    <img alt="Krishnam Murarka GitHub statistics" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github">
+  </picture>
+</p>
 
 ### Edilec repositories I contribute to
 
@@ -329,5 +359,8 @@ Longer form architecture notes, mostly about the decisions rather than the synta
 **[Browse all writing →](https://edilec.com/authors/krishnam-murarka/)**
 
 <p align="center">
-  <img alt="Light Edilec footer wave" width="100%" src="./assets/profile/profile-wave-footer-light.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,55:1f6feb,100:3fb950&height=110&section=footer">
+    <img alt="" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,55:e8f1ff,100:c8f7df&height=110&section=footer">
+  </picture>
 </p>

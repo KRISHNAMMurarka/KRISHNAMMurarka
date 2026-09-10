@@ -53,7 +53,7 @@ architecture through to what happens after launch.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAMMurarka&theme=github_dark">
-    <img alt="Krishnam Murarka profile summary: public repositories, join date and contributions over the last year" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAMMurarka&theme=github">
+    <img alt="Krishnam Murarka profile summary: public repositories, join date and contributions over the last year" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KRISHNAMMurarka&theme=github">
   </picture>
 </p>
 
@@ -71,7 +71,7 @@ architecture through to what happens after launch.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github_dark">
-    <img alt="Krishnam Murarka GitHub statistics" width="88%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github">
+    <img alt="Krishnam Murarka GitHub statistics" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KRISHNAMMurarka&theme=github">
   </picture>
 </p>
 

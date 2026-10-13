@@ -50,7 +50,7 @@ architecture through to what happens after launch.
 
 ### Edilec repositories I contribute to
 
-I contribute to the canonical Edilec repositories below. The projects live under the Edilec account, and this directory keeps the work and repository links together in one place.
+I contribute to the 209 canonical Edilec repositories below. The projects live under the Edilec account, and this directory keeps the work and repository links together in one place.
 
 <details>
 <summary><b>SEO &amp; Search</b> &nbsp;·&nbsp; 11 tools</summary>
@@ -169,7 +169,7 @@ I contribute to the canonical Edilec repositories below. The projects live under
 </details>
 
 <details>
-<summary><b>Cloud &amp; Platform</b> &nbsp;·&nbsp; 10 tools</summary>
+<summary><b>Cloud &amp; Platform</b> &nbsp;·&nbsp; 11 tools</summary>
 
 - **[Cloud Resource Naming Auditor](https://github.com/edilec/cloud-resource-naming-auditor)** · Check cloud resource names against environment, owner and lifecycle rules. ([releases](https://github.com/edilec/cloud-resource-naming-auditor/releases))
 - **[IAM Least Privilege Diff](https://github.com/edilec/iam-least-privilege-diff)** · Compare identity policies and surface privilege changes in human-readable form. ([releases](https://github.com/edilec/iam-least-privilege-diff/releases))
@@ -181,6 +181,7 @@ I contribute to the canonical Edilec repositories below. The projects live under
 - **[Object Storage Lifecycle Auditor](https://github.com/edilec/object-storage-lifecycle-auditor)** · Check bucket lifecycle rules against retention and deletion requirements. ([releases](https://github.com/edilec/object-storage-lifecycle-auditor/releases))
 - **[Cloud Cost Tag Checker](https://github.com/edilec/cloud-cost-tag-checker)** · Find cloud resources missing cost center, owner or environment tags. ([releases](https://github.com/edilec/cloud-cost-tag-checker/releases))
 - **[Failover Readiness Probe](https://github.com/edilec/failover-readiness-probe)** · Probe recovery dependencies and record whether failover paths are usable. ([releases](https://github.com/edilec/failover-readiness-probe/releases))
+- **[Cloud Exposure Auditor](https://github.com/edilec/cloud-exposure-auditor)** · Audit public storage, administrative ingress, key age, privileged MFA and logging from local cloud exports; no live cloud access.
 
 </details>
 
@@ -201,7 +202,7 @@ I contribute to the canonical Edilec repositories below. The projects live under
 </details>
 
 <details>
-<summary><b>Security &amp; Privacy</b> &nbsp;·&nbsp; 10 tools</summary>
+<summary><b>Security &amp; Privacy</b> &nbsp;·&nbsp; 14 tools</summary>
 
 - **[HTTP Security Header Auditor](https://github.com/edilec/http-security-header-auditor)** · Check security headers against a declared policy and route exceptions. ([releases](https://github.com/edilec/http-security-header-auditor/releases))
 - **[TLS Certificate Inventory](https://github.com/edilec/tls-certificate-inventory)** · Inventory certificate names, expirations, issuers and renewal evidence. ([releases](https://github.com/edilec/tls-certificate-inventory/releases))
@@ -213,6 +214,10 @@ I contribute to the canonical Edilec repositories below. The projects live under
 - **[Threat Model Change Tracker](https://github.com/edilec/threat-model-change-tracker)** · Show how code, configuration and infrastructure changes alter threat assumptions. ([releases](https://github.com/edilec/threat-model-change-tracker/releases))
 - **[Secure File Upload Fixture](https://github.com/edilec/secure-file-upload-fixture)** · Exercise file upload limits, type checks, storage paths and rejection behavior. ([releases](https://github.com/edilec/secure-file-upload-fixture/releases))
 - **[CSRF Fixture Tester](https://github.com/edilec/csrf-fixture-tester)** · Run CSRF fixtures against state-changing routes and token handling. ([releases](https://github.com/edilec/csrf-fixture-tester/releases))
+- **[Scope Guard](https://github.com/edilec/scope-guard)** · Verify a signed testing scope and log offline allow, deny or unknown decisions for proposed destinations; never scans targets.
+- **[Rules of Engagement Builder](https://github.com/edilec/rules-of-engagement-builder)** · Produce unsigned rules-of-engagement and authorization drafts from a local questionnaire.
+- **[Findings Report Builder](https://github.com/edilec/findings-report-builder)** · Build executive and technical reports from local findings, with offline CVSS scoring and shareable redaction.
+- **[ATT&CK Coverage Mapper](https://github.com/edilec/attack-coverage-mapper)** · Map analyst-confirmed activity and detection observations to offline coverage reports and a Navigator layer.
 
 </details>
 
